@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Re01 HTML 教学小T具</title>
+</head>
+<body style="margin:0;">
+<div style="background-color:#f1f1f1;text-align: center;padding: 20px;"> 
+ <img alt="康文昌" src="https://kangwenchang.com/logo.png" width="80px" height="80px">
+</div>
+<div><p>
+   亲爱的读者，你们好，本文共6000余字，凝聚了我大量的心血，是我在官场三十年所经历的身边人、身边事，本文因涉及很多潜规则，不宜对外公开展示，故设置付费阅读，看完会对您提升认知和了解社会真相有帮助。
+  </p>
+  <p style="max-width:760px;margin:20px auto;padding:15px;line-height:1.7;text-align: center;font-size:15px;">本来是指在打猎时提前布好诱饵、陷阱，伺机合围而猎，又称狩猎。在我国当代的语境下， “围猎”一词 被借用来比喻不法分子为达到目的而对领导干部展开的种种攻势， 就是比喻利益集团为达到目的，对领导干部展开的各种攻势。
+为什么这些商人会想尽办法不择手段去围猎干部，他累不累？也很累的，花很多心思，很多精力，卑躬屈膝的，很多时候巴结讨好，其实原因很简单，就是利益，而且是非常大的利益。
+有人说这个还用你说吗？其实很多时候我们大家那有时候意识不到一些问题。我们很多同志家里面家境比较普通，家里也没有什么做生意的，上班之后选择体制内这个工作，或者是从其他的一些社会的工作上跳到考到体制里面来。实际上我们国家的公权力非常大，而且能掌握的资源是非常多的。公权力是指不仅仅是公权力和资源，它不仅仅是简单的机关干部，包括还包括事业单位和国企，权力非常大，资源非常多。
+
+    </p></div>
+<div style="background-color:#f1f1f1;text-align: center;padding:40px;font-size:12px;"> 
+  <p>
+    版 权 所 有：kangwenchang.com
+  </p>
+  <a href="https://kangwenchang.com">我的网站</a>
+</div>
+</body>
+</html>
